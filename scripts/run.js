@@ -10,7 +10,7 @@ const main = async () => {
     [100, 500, 1337], // HP values
     [1337, 100, 50], // Attack damage values
     "Boo", // Boss name
-    "https://static.wikia.nocookie.net/dragonball/images/a/af/Innocent_buu.png/revision/latest?cb=20210411050353", // Boss image
+    "https://i.imgur.com/eivj7SZb.jpg", // Boss image
     10000, // Boss hp
     50 // Boss attack damage
   );
